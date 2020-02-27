@@ -1,0 +1,5 @@
+animal1 = input("Please input name of first animal ")
+animal2 = input("Please input name of second animal ")
+animals = (animal1, animal2)
+animals.sort()
+print (animals)
