@@ -17,5 +17,5 @@ find_remainder = 10 - first_12_sum % 10
 print (find_remainder)
 
 x13 = first_12_sum % 10
-print (x13)
+print(x13)
 
